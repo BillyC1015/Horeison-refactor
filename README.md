@@ -1,4 +1,4 @@
 # Horeison-refactor
 
 ## description
-This paragraph describes the project
+I refactored the Horiseon website to make it more accessible
